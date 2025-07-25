@@ -1,9 +1,3 @@
-Here’s a **basic project description** for your *Number Checker* app — perfect for a GitHub `README.md`, Netlify deployment, or as an intro section on the website.
-
----
-
-### 📄 Basic Description
-
 **Number Checker** is a simple and interactive web tool that lets users check if a given number is:
 
 * 🧮 **Odd or Even**
